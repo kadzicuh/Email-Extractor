@@ -16,7 +16,3 @@ class Get_Links(object):
                                 for a in HTML.select("a[href]")]
         except Exception:
             pass
-
-    @property
-    def All_Links(self):
-        return self.__All_Links

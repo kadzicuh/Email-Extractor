@@ -36,7 +36,3 @@ class Core(object):
             self.__Emails += set(self.__Get_Email._Get_Email__Emails)
         except Exception:
             pass
-
-    @property
-    def Emails(self):
-        return self.__Emails

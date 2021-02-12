@@ -16,7 +16,3 @@ class Get_Email(object):
                     self.__Emails.append(Email.text + "\n")
         except Exception:
             pass
-
-    @property
-    def Emails(self):
-        return self.__Emails

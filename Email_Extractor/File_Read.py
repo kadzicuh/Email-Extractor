@@ -10,7 +10,3 @@ class File_Read(object):
                 self.__URL = [URL.strip() for URL in File.readlines()]
         except Exception:
             pass
-
-    @property
-    def URL(self):
-        return self.__URL
