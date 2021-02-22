@@ -7,9 +7,8 @@
 ## Email-Extractor
 Free utility to extract email address by scanning a given URL
 
-[![GitHub](https://img.shields.io/github/license/kadzicuh/Email-Extractor)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-378/)
-[![Maintainability](https://api.codeclimate.com/v1/badges/654e3a63d2fc19072732/maintainability)](https://codeclimate.com/github/kadzicuh/Email-Extractor/maintainability)
+[![GitHub](https://img.shields.io/github/license/kadzicuh/Email-Extractor?style=flat-square)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-378/)
 
 ## 📃 Requirements
 * 📌 Python
