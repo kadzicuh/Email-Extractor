@@ -2,7 +2,6 @@ import requests
 
 from bs4 import BeautifulSoup
 
-
 class Get_Links(object):
     def __init__(self):
         self.__All_Links = []
@@ -11,8 +10,8 @@ class Get_Links(object):
         try:
             # Get HTML
             HTML = BeautifulSoup(requests.get(_URL).text, "html.parser")
+
             # Finding links in HTML <a href=""></a>
-            self.__All_Links = [a.attrs.get("href")
-                                for a in HTML.select("a[href]")]
+            self.__All_Links = [a.attrs.get("href") for a in HTML.select("a[href]")]
         except Exception:
             pass
