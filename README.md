@@ -15,14 +15,14 @@ Free utility to extract email address by scanning a given URL
 * 📌 Python
   * ✔️ >= 3.7
 * 📌 Libraries
-  * ✔️ beautifulsoup4
-  * ✔️ certifi
-  * ✔️ chardet
-  * ✔️ idna
-  * ✔️ requests
-  * ✔️ soupsieve
-  * ✔️ urllib3
-  * ✔️ tqdm
+  * ✔️ beautifulsoup4 >= 4.9.1
+  * ✔️ certifi >= 2020.6.20
+  * ✔️ chardet >= 3.0.4
+  * ✔️ idna >= 2.10
+  * ✔️ requests >= 2.24.0
+  * ✔️ soupsieve >= 2.0.1
+  * ✔️ urllib3 >= 1.25.10
+  * ✔️ tqdm >= 4.48.2
 
 ## 📃 Usage:
 ```
