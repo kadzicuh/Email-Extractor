@@ -8,7 +8,6 @@
 Free utility to extract email address by scanning a given URL
 
 [![GitHub](https://img.shields.io/github/license/kadzicuh/Email-Extractor?style=flat)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=flat)](https://www.python.org/downloads/release/python-378/)
 ![example workflow](https://github.com/kadzicuh/Email-Extractor/actions/workflows/codeql-analysis.yml/badge.svg)
 
 ## 📃 Requirements
